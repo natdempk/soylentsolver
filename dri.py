@@ -1,3 +1,5 @@
+#scaling_factors = {}
+
 usg_m_2400 = {
         'kcal' : 2711,
         'carbohydrates' : 339, 
