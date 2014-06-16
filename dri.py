@@ -1,6 +1,6 @@
 usg_m_2400 = {
         'kcal' : 2711,
-        'carbohydrates' : 339,
+        'carbohydrates' : 339, 
         'protein' : 169,
         'total_fat' : 75,
         'omega3' : 1.6,
