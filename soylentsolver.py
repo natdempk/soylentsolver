@@ -1,10 +1,8 @@
-#from numpy import *
 import numpy as np
 import dri
 import ingredients
 import argparse
 import copy
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -57,4 +55,3 @@ if __name__ == '__main__':
     for i, ing in enumerate(ingredients.ingredients):
         print ing['name']  + ' ' + str(sol[i])
         pass
-

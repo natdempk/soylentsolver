@@ -59,7 +59,7 @@ ingredients = [
         {
                 'name' : 'Soybean Oil',
                 'serving_size' : 100,
-                'kcal' : 884
+                'kcal' : 884,
                 'calcium' : .4,
                 'magnesium' : 400,
                 'vitamin_d' : 200,
@@ -70,7 +70,7 @@ ingredients = [
                 'kcal' : 110,
                 'protein' : 25,
                 'total_fat' : 0.5,
-                'cholesterol' : 5
+                'cholesterol' : 5,
                 'calcium' : 0.15,
                 'potassium' : 0.135,
                 'sodium' : 0.045,
@@ -80,7 +80,7 @@ ingredients = [
                 'name' : 'GNC Mega Men Sport Vanilla Bean',
                 'serving_size' : 36,
                 'kcal' : 130,
-                'carbohydrates': 15
+                'carbohydrates': 15,
                 'protein' : 10,
                 'total_fat' : 2.5,
                 'fiber' : 8,
