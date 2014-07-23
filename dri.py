@@ -1,6 +1,6 @@
 #scaling_factors = {}
 
-usg_m_2400 = {
+usg_m_2700 = {
         'kcal' : 2711,
         'carbohydrates' : 339, 
         'protein' : 169,
