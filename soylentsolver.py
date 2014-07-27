@@ -1,4 +1,3 @@
-import numpy as np
 import dri
 import ingredients
 import argparse
