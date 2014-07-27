@@ -1,2 +1,8 @@
-python-constraint==1.2
+argparse==1.2.1
+google-apputils==0.4.0
+ortools==1.3549
+protobuf==2.5.0
+python-dateutil==1.5
+python-gflags==2.0
+pytz==2014.4
 wsgiref==0.1.2
