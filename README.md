@@ -36,7 +36,7 @@ You can see a full list of available flags with:
 
 ## Planned Features
 
-- Make the solver actually work
+- Make the solver actually work. `or-tools` may be a failure...
 - Rank recipes by closeness to DRI, maybe multiple iterations to find most optimal recipes.
 - Flag to minimize number of ingredients
 - Potentially integration with http://diy.soylent.me so that recipes and DRI's can be automatically pushed/pulled.
