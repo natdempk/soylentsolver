@@ -13,6 +13,10 @@ Next install the required Python packages by running
     
 from the project directory.
 
+Additionally install `ortools` by running
+
+    $ easy_install ortools
+
 Then you can either set up your own DRI (Dietary Reference Intake) or use one of the one's provided in `dri.py`.
 If you wish to set up your own, just copy/modify an already existing one from `dri.py`. 
 A nutrient with just a single number is assumed to have no daily intake limit, while a tuple represents the `(min, max)` daily intake values.
